@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hamiidrahmani
 - 👀 I’m interested in Frontend and Backend Development
-- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on International scale projects
 
 <!---
